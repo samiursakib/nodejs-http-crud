@@ -1,0 +1,80 @@
+[
+  {
+    "id": "65556b78-6472-416b-a1c7-b134165f8549",
+    "name": "Florence Pugh",
+    "character": "Yelena Belova",
+    "rating": 5
+  },
+  {
+    "id": "d5f5f40f-eebc-4da0-a8ec-d2e0820fe351",
+    "name": "Robert Downey",
+    "character": "Tony Stark",
+    "rating": 9
+  },
+  {
+    "id": "c222b2c9-3640-429d-8912-7f00e19a75f1",
+    "name": "Brie Larson",
+    "character": "Carol Danvers",
+    "rating": 6
+  },
+  {
+    "id": "6286b2b8-03b7-4a61-a96a-6a61a62454d9",
+    "name": "Tom Holland",
+    "character": "Peter Parker",
+    "rating": 7
+  },
+  {
+    "id": "4508e73e-64df-42a4-a04a-8facfbf02686",
+    "name": "Chris Pratt",
+    "character": "Pter Quill",
+    "rating": 6
+  },
+  {
+    "id": "e4f54923-e451-4bcd-87f3-12ffb4c93f81",
+    "name": "Vanessa Kirby",
+    "character": "Sue Storm",
+    "rating": 4
+  },
+  {
+    "id": "772cc002-5f95-483e-b9fc-75f188a74427",
+    "name": "Ryan Reynolds",
+    "character": "Wade Wilson",
+    "rating": 8
+  },
+  {
+    "id": "d11f91a6-389c-4c77-a895-44affb923d63",
+    "name": "Angelina Jolie",
+    "character": "Thena",
+    "rating": 3
+  },
+  {
+    "id": "74e452d8-d26c-41c5-b7d8-6587583ef80e",
+    "name": "Mark Ruffalo",
+    "character": "Bruce Banner",
+    "rating": 7
+  },
+  {
+    "id": "1557e121-7c8a-426e-a565-c1e6c6d43bc8",
+    "name": "Chris Hemsworth",
+    "character": "Thor",
+    "rating": 9
+  },
+  {
+    "id": "2ba73fde-3bb7-4c9e-a868-51b115d47b98",
+    "name": "Tom Hiddleson",
+    "character": "Loki",
+    "rating": 9
+  },
+  {
+    "id": "838f3cee-a0bc-4642-ad5f-79dcd4b02efa",
+    "name": "Nusrat Maisha",
+    "character": "Harley Quinn",
+    "rating": 100
+  },
+  {
+    "id": "04449795-aa80-4ccb-ab8c-d22d2e14621a",
+    "name": "Saima Shammi",
+    "character": "Another queen",
+    "rating": 100
+  }
+]
